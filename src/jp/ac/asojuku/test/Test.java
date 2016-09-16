@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package jp.ac.asojuku.test;
 
@@ -8,5 +8,5 @@ package jp.ac.asojuku.test;
  *
  */
 public class Test {
-
+	private String test;
 }
